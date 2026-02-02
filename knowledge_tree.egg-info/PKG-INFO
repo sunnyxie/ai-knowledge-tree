@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: knowledge_tree
+Version: 0.1.0
+Summary: Project scanner that emits a JSON knowledge tree
+Author: 
+License: MIT
+Dynamic: license
+Dynamic: summary
