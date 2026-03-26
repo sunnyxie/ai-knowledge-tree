@@ -1,4 +1,5 @@
 # Knowledge Tree Agent
+# This project is a experiment, 99% of the code was created by AI.
 
 Scans a root directory of projects and produces a JSON "knowledge tree" per project, reporting detected languages, frameworks, package managers, CI, infra, and tooling.
 
